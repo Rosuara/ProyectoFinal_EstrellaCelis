@@ -1,0 +1,134 @@
+header {
+text-align: center;
+background: white;
+padding:10px;
+margin-bottom:20px;
+}
+
+Nav {
+Text-align: center;
+}
+
+a {
+font-family:sans-serif;
+font-weight:bold;
+Color:white;
+Text-decoration:none;
+Padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+}
+
+a:hover {
+color:#ff6b81;
+}
+
+h3 {
+Color: white;
+Font-size: 25px;
+Font-weight: bold;
+Font-family: sans-serif;
+Text- align: left;
+Background: #2e86de;
+Padding:10px;
+}
+
+h5 {
+Color: white;
+Font-size: 25px;
+Font-weight: bold;
+Font-family: sans-serif;
+Text-align: right;
+Background: #833471;
+Padding:10px;
+}
+
+h6 {
+Color: white;
+Font-size: 25px;
+Font-weight: bold;
+Font-family: sans-serif;
+Text-align: right;
+Background: #ED4C67;
+Padding:10px;
+}
+
+h8 {
+Color: white;
+Font-size: 25px;
+Font-weight: bold;
+Font-family: sans-serif;
+Text-align: right;
+Background: #EE5A24;
+Padding-top: 10px;
+padding-right: 400px;
+padding-bottom: 10px;
+padding-left: 10px;
+}
+
+ul {
+Color: white;
+Font-size: 14px;
+Font-weight: regular;
+Font-family: sans-serif;
+Text- align: left;
+Padding-top: 50px;
+}
+
+p {
+Color: white;
+Font-size:8px;
+Font-weight: regular;
+Font-family: sans-serif;
+Text-align: center;
+}
+ 
+Div {
+Border: 20px solid black;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 15px;
+}
+
+.left {
+Float:left;
+padding-right: 20px;
+Padding-bottom: 10px;
+}
+
+.right {
+Float:right;
+Padding-left: 20px;
+Padding-bottom: 10px;
+}
+
+h4 {
+Color: white;
+Font-size: 14px;
+Font-weight: regular;
+Font-family: sans-serif;
+Text- align: left;
+}
+
+
+.redes {
+display: block;
+Background-color:black ;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+.texto {
+Color: white;
+Font-size: 10px;
+Font-weight: regular;
+Font-family: sans-serif;
+Padding-right: 50px;
+}
+
+Footer {
+Text-align: center;
+}
